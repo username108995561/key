@@ -1,9 +1,9 @@
 {
-  "allowedIps": ["172.20.0.5"],
+  "allowedIps": ["206.189.15.243"],
   "users": [
     {
       "username": "hwuwhw99", //gnti user mu
-      "password": "1" //gnti user mu
+      "password": "112233" //gnti user mu
     }
   ]
 }
